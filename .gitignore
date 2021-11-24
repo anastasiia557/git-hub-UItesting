@@ -2,7 +2,8 @@
  .DS_Store
  .project
  .settings
- .pom.xml
+ pom.xml
+ .classpath
 
 
 
